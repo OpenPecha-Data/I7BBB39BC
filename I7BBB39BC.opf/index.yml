@@ -1,0 +1,11 @@
+id: 2674c609d801479eaf0b698474e218f2
+annotation_type: index
+revision: '00001'
+annotations:
+  b9844a1433494f3a9d0a020971cd9d61:
+    base: AF39.txt
+    Chapters:
+    - title: Muktaka
+      span:
+        start: 0
+        end: 188600
